@@ -36,7 +36,7 @@
     "@headlessui/react": "^2.2.7",
     "@hookform/resolvers": "^5.2.1",
     "@langchain/community": "^0.3.49",
-    "@langchain/core": "^0.3.66",
+    "@langchain/core": "^0.3.72",
     "@marsidev/react-turnstile": "^1.1.0",
     "@mendable/firecrawl-js": "^1.29.3",
     "@openrouter/ai-sdk-provider": "^0.7.3",
